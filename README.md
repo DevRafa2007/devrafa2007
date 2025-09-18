@@ -20,7 +20,7 @@ I work on both frontend and backend, with a strong interest in artificial intell
 
 ## ⭐ GitHub Stats
 
-[![card](https://github-readme-stats-devrafa.vercel.app/api?username=devrafa200&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats-devrafa.vercel.app/api?username=devrafa2007&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![iuricode](https://github-readme-stats-devrafa.vercel.app/api/top-langs/?username=devrafa2007&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
